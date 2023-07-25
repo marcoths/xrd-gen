@@ -1,4 +1,4 @@
-# xgen
+# xrd-gen
 
 ```shell
 xrd-gen is a command-line interface (CLI) to generate Crossplane Composite Resource Definitions (XRDs) from
